@@ -1,0 +1,23 @@
+{
+  "name": "pages-template",
+  "version": "1.0.0",
+  "description": "a github pages template for static sites",
+  "main": "index.html",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usmanity/pages-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usmanity/pages-template/issues"
+  },
+  "homepage": "https://github.com/usmanity/pages-template#readme"
+}
