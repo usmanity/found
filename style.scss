@@ -1,0 +1,23 @@
+.display {
+  > letter {
+      font-size: 25px;
+      &:first-child {
+        font-weight: 100;
+      }
+      &:nth-of-type(2) {
+        font-weight: 200;
+      }
+      &:nth-of-type(3) {
+        font-weight: 300;
+      }
+      &:nth-of-type(4) {
+        font-weight: 400;
+      }
+      &:nth-of-type(5) {
+        font-weight: 500;
+      }
+      &:nth-of-type(6) {
+        font-weight: 600;
+      }
+  }
+}

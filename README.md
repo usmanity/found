@@ -1,8 +1,5 @@
-# pages-template
-a github pages template for static sites, overtime I will add other things I would like templatized for easier startup of new pages.
+# fonts found around the internet
+Just a collection of fonts I've found around the internet.
 
+If they are available to download, links might be included as well, otherwise they'll just be linked.
 
-## Comes with
-
-- CNAME file that needs to be changed to your domain
-- Tailwind CSS included as a link (no building required)
